@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://giraffe.ece.utexas.edu/svn/mengna"
+   revision="238"
+   last-author="mengna"
+   url="http://giraffe.ece.utexas.edu/svn/mengna/trunk/edu.cmu.cs.crystal/src/edu/cmu/cs/crystal/analysis/alias"
+   committed-rev="238"
+   kind="dir"
+   committed-date="2011-12-20T17:52:15.725000Z"/>
+<entry
+   name="AliasLE.java"
+   checksum="958dbc9959b50f491da8193842546cd1"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:40.000000Z"/>
+<entry
+   name="Aliasing.java"
+   checksum="3b7c6750fe09d542edf69975672c56e0"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:21.000000Z"/>
+<entry
+   name="DefaultObjectLabel.java"
+   checksum="d9136af21c0b1485bd5a1eb08c4a9407"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:49.000000Z"/>
+<entry
+   name="MayAliasAnalysis.java"
+   checksum="1d70cbc06616803fe2cf138823cef7cd"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:32.000000Z"/>
+<entry
+   name="MayAliasTransferFunction.java"
+   checksum="a8843373d6963581a25806f8f36ac0f4"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:46.000000Z"/>
+<entry
+   name="ObjectLabel.java"
+   checksum="7d2a80d66e868f337eaebe52c438f8aa"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:52.000000Z"/>
+<entry
+   name="SingleObjectAliasOps.java"
+   checksum="88379dd388f23a1cc8e968e906c920ed"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:49.000000Z"/>
+</wc-entries>

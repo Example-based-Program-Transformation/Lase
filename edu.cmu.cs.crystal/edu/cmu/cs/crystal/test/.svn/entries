@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://giraffe.ece.utexas.edu/svn/mengna"
+   revision="238"
+   last-author="mengna"
+   url="http://giraffe.ece.utexas.edu/svn/mengna/trunk/edu.cmu.cs.crystal/edu/cmu/cs/crystal/test"
+   committed-rev="238"
+   kind="dir"
+   committed-date="2011-12-20T17:52:15.725000Z"/>
+<entry
+   name="AnnotatedTest$1.class"
+   checksum="54b467b42895c14ccd8eeab29d0ac25e"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:32.000000Z"/>
+<entry
+   name="AnnotatedTest$2$1.class"
+   checksum="ccfdb7e99f7ac226982762d1cdef8d57"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:59.000000Z"/>
+<entry
+   name="AnnotatedTest$2.class"
+   checksum="e212e5e3108ae577b6b1f81e04bdb794"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:40.000000Z"/>
+<entry
+   name="AnnotatedTest$TestType.class"
+   checksum="790a2c9fd2fd89d100d85f954ffe508a"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:43.000000Z"/>
+<entry
+   name="AnnotatedTest.class"
+   checksum="e921254de57ab20d5bb603d6726f66c6"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:35.000000Z"/>
+<entry
+   name="CFGTestAnalysis.class"
+   checksum="fd7261ec8c843b564f90e51963318350"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:37.000000Z"/>
+<entry
+   name="ConsListTest$1.class"
+   checksum="c25f13a863bde91895f31a3406ad4b5a"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:19.000000Z"/>
+<entry
+   name="ConsListTest.class"
+   checksum="6646b0b21d202cdce2a66800cf94071c"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:37.000000Z"/>
+<entry
+   name="EclipseCFGTestAnalysis.class"
+   checksum="2de9e2120e6705b0198309c4ab18c5ab"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:53.000000Z"/>
+<entry
+   name="EclipseNodeFirstCFGTestAnalysis.class"
+   checksum="847b42533a2a07f60baab724f2e8910c"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:59.000000Z"/>
+<entry
+   name="SystemTestUtils.class"
+   checksum="47654ac380db727bb387f6453805eea6"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:04.000000Z"/>
+<entry
+   name="TestUtilities.class"
+   checksum="c0182e22a4f20e0782b44b6f5b9d2a8b"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:51.000000Z"/>
+<entry
+   name="package-info.class"
+   checksum="ff6909d0b6b6649b71b6c08bdd56dcf6"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:18.000000Z"/>
+</wc-entries>

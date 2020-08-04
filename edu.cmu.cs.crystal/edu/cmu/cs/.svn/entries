@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://giraffe.ece.utexas.edu/svn/mengna"
+   revision="238"
+   last-author="mengna"
+   url="http://giraffe.ece.utexas.edu/svn/mengna/trunk/edu.cmu.cs.crystal/edu/cmu/cs"
+   committed-rev="238"
+   kind="dir"
+   committed-date="2011-12-20T17:52:15.725000Z"/>
+<entry
+   name="crystal"
+   kind="dir"/>
+</wc-entries>

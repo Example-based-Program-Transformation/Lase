@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://giraffe.ece.utexas.edu/svn/mengna"
+   name=""
+   revision="238"
+   last-author="mengna"
+   url="http://giraffe.ece.utexas.edu/svn/mengna/trunk/edu.cmu.cs.crystal/edu/cmu/cs/crystal"
+   committed-rev="238"
+   kind="dir"
+   committed-date="2011-12-20T17:52:15.725000Z"/>
+<entry
+   name="AbstractCompilationUnitAnalysis.class"
+   checksum="d7623da4458976123c8c45196ef62545"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:52.000000Z"/>
+<entry
+   name="AbstractCrystalMethodAnalysis.class"
+   checksum="08e45820256997063487c6be9e826be7"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:40.000000Z"/>
+<entry
+   name="IAnalysisInput.class"
+   checksum="fb05ead37dcc159052058b7e211cb16c"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:30.000000Z"/>
+<entry
+   name="IAnalysisReporter$SEVERITY.class"
+   checksum="2bcd5e81610f6b6e24284b60d4dec9a1"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:36.000000Z"/>
+<entry
+   name="IAnalysisReporter.class"
+   checksum="71e5676647e8b178abf131ca280664cb"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:05.000000Z"/>
+<entry
+   name="ICrystalAnalysis.class"
+   checksum="ff85d9e9976d33931479b5d2eac9883d"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:55.000000Z"/>
+<entry
+   name="IRunCrystalCommand.class"
+   checksum="4efd11712bd3c0b265af95f6c4123608"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:12.000000Z"/>
+<entry
+   name="analysis"
+   kind="dir"/>
+<entry
+   name="annotations"
+   kind="dir"/>
+<entry
+   name="bridge"
+   kind="dir"/>
+<entry
+   name="cfg"
+   kind="dir"/>
+<entry
+   name="flow"
+   kind="dir"/>
+<entry
+   name="internal"
+   kind="dir"/>
+<entry
+   name="package-info.class"
+   checksum="dacb92fe202380c250ceab179ce8f7a9"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:45.000000Z"/>
+<entry
+   name="simple"
+   kind="dir"/>
+<entry
+   name="tac"
+   kind="dir"/>
+<entry
+   name="test"
+   kind="dir"/>
+<entry
+   name="util"
+   kind="dir"/>
+</wc-entries>

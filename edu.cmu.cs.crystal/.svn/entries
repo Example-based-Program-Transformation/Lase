@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://giraffe.ece.utexas.edu/svn/mengna"
+   name=""
+   revision="237"
+   last-author="mengna"
+   uuid="dada1a50-f410-164a-a28e-c8f9d89772fe"
+   url="http://giraffe.ece.utexas.edu/svn/mengna/trunk/edu.cmu.cs.crystal"
+   committed-rev="237"
+   kind="dir"
+   committed-date="2011-12-20T17:48:42.702744Z"/>
+<entry
+   name=".classpath"
+   revision="238"
+   checksum="c32b4b5bbb1f8e50122c86d9a641d9bf"
+   last-author="mengna"
+   text-time="2010-07-15T17:04:55.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:33.000000Z"/>
+<entry
+   name=".project"
+   revision="238"
+   checksum="a83d07abfedf02b8f1c42dad45e8f6ca"
+   last-author="mengna"
+   text-time="2010-05-11T20:39:56.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:44.000000Z"/>
+<entry
+   name=".settings"
+   kind="dir"/>
+<entry
+   name="COPYING"
+   revision="238"
+   checksum="3c34afdc3adf82d2448f12715a255122"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:24.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:41.000000Z"/>
+<entry
+   name="COPYING.LESSER"
+   revision="238"
+   checksum="8e3494bf8cf1967afd3b1016fbbe5bb0"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:07.000000Z"/>
+<entry
+   name="META-INF"
+   kind="dir"/>
+<entry
+   name="bin"
+   kind="dir"/>
+<entry
+   name="build.properties"
+   revision="238"
+   checksum="72f1e780fe4bd58f12d3d4445498055e"
+   last-author="mengna"
+   text-time="2010-05-11T20:39:56.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:02.000000Z"/>
+<entry
+   name="dotFiles"
+   kind="dir"/>
+<entry
+   name="edu"
+   kind="dir"/>
+<entry
+   name="grappa1_2.jar"
+   revision="238"
+   checksum="5b0d70a7f0083a87253b313f577973af"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:54.000000Z"/>
+<entry
+   name="icons"
+   kind="dir"/>
+<entry
+   name="plugin.xml"
+   revision="238"
+   checksum="9eebc5abb264a26980e4633443fcacb9"
+   last-author="mengna"
+   text-time="2010-07-07T21:34:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:25.000000Z"/>
+<entry
+   name="schema"
+   kind="dir"/>
+<entry
+   name="src"
+   kind="dir"/>
+</wc-entries>

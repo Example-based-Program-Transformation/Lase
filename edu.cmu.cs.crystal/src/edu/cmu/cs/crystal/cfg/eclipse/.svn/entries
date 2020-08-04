@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://giraffe.ece.utexas.edu/svn/mengna"
+   name=""
+   revision="238"
+   last-author="mengna"
+   url="http://giraffe.ece.utexas.edu/svn/mengna/trunk/edu.cmu.cs.crystal/src/edu/cmu/cs/crystal/cfg/eclipse"
+   committed-rev="238"
+   kind="dir"
+   committed-date="2011-12-20T17:52:15.725000Z"/>
+<entry
+   name="CFGTestUtils.java"
+   checksum="6d65b0985412c6ea2103343771b84710"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:29.000000Z"/>
+<entry
+   name="Conditional.java"
+   checksum="6fcb2fafefb79912e2c2945abefd851d"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:54.000000Z"/>
+<entry
+   name="ConstructorDecl.java"
+   checksum="0fda99f9eb161ab5a9170dbdc544f6ea"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:28.000000Z"/>
+<entry
+   name="Do.java"
+   checksum="01a23fe0023ee1bd2f5b00bb1f0e7242"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:29.000000Z"/>
+<entry
+   name="EclipseCFG.java"
+   checksum="bfd9c30e4137d16a7bd69fee59678550"
+   last-author="mengna"
+   text-time="2010-12-29T21:27:00.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:51.000000Z"/>
+<entry
+   name="EclipseCFGEdge.java"
+   checksum="6ee2bb1343eebcbf749a01e2702f93c3"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:42.000000Z"/>
+<entry
+   name="EclipseCFGNode.java"
+   checksum="e1b8538c841e59a80e6cead3df95393e"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:35.000000Z"/>
+<entry
+   name="EclipseNodeFirstCFG.java"
+   checksum="f29a26fa3798ea3791733237b71a2421"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:02.000000Z"/>
+<entry
+   name="For.java"
+   checksum="ec5f975afe19ba6f6b8dd08d21849744"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:50.000000Z"/>
+<entry
+   name="If.java"
+   checksum="041d8d0add32240a53f0b14a45d3b30a"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:13.000000Z"/>
+<entry
+   name="Infix.java"
+   checksum="fbd4e48aaa0e2519cbbef315fae78e1f"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:44.000000Z"/>
+<entry
+   name="Label.java"
+   checksum="440e5ad52ed3ec98a1c98d6bc7a60513"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:10.000000Z"/>
+<entry
+   name="MethodDecl.java"
+   checksum="e1d6918cfdc68316a8d937c86bf568fd"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:50.000000Z"/>
+<entry
+   name="Switch.java"
+   checksum="35a4b7610409531dcf21b8e15bc08a5f"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:38.000000Z"/>
+<entry
+   name="Try.java"
+   checksum="b9f520a4157e90275c699ad0267ab5ce"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:25.000000Z"/>
+<entry
+   name="TypeDecl.java"
+   checksum="1b0896aa67ec58615e5bb626375aab09"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:54.000000Z"/>
+<entry
+   name="While.java"
+   checksum="756bf79efb8f01e185ceb1ba56a066d0"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:27.000000Z"/>
+<entry
+   name="package-info.java"
+   checksum="c3bbebbeacd5b1d088160142e5a995e6"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:58.000000Z"/>
+</wc-entries>

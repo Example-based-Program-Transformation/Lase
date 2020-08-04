@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://giraffe.ece.utexas.edu/svn/mengna"
+   revision="238"
+   last-author="mengna"
+   url="http://giraffe.ece.utexas.edu/svn/mengna/trunk/edu.cmu.cs.crystal/src/edu/cmu/cs/crystal/cfg"
+   committed-rev="238"
+   kind="dir"
+   committed-date="2011-12-20T17:52:15.725000Z"/>
+<entry
+   name="BlockStack.java"
+   checksum="dbe55155d48af64472b5cfe68f207a0f"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:20.000000Z"/>
+<entry
+   name="ExceptionMap.java"
+   checksum="93427c30aed8378e29b7f6c7dd1949f2"
+   last-author="mengna"
+   text-time="2010-12-29T21:17:11.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:35.000000Z"/>
+<entry
+   name="ICFGEdge.java"
+   checksum="18f34b6abad455cff9835b3fc66c1d4c"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:29.000000Z"/>
+<entry
+   name="ICFGNode.java"
+   checksum="731a0387caf91ab953f864ecd268dc91"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:47.000000Z"/>
+<entry
+   name="IControlFlowGraph.java"
+   checksum="55eef524d8f71d5c3d87069abed39fdb"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:06.000000Z"/>
+<entry
+   name="eclipse"
+   kind="dir"/>
+<entry
+   name="package-info.java"
+   checksum="ad5a2d08fc770f788557aa443055d229"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:16.000000Z"/>
+</wc-entries>

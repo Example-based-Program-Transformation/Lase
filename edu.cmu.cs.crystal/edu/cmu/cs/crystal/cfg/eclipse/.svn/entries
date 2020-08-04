@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://giraffe.ece.utexas.edu/svn/mengna"
+   revision="238"
+   last-author="mengna"
+   url="http://giraffe.ece.utexas.edu/svn/mengna/trunk/edu.cmu.cs.crystal/edu/cmu/cs/crystal/cfg/eclipse"
+   committed-rev="238"
+   kind="dir"
+   committed-date="2011-12-20T17:52:15.725000Z"/>
+<entry
+   name="CFGTestUtils.class"
+   checksum="b3144dd6964bf03f6b90a38e042e457b"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:50.000000Z"/>
+<entry
+   name="Conditional.class"
+   checksum="6297ec32a8f7cccf3265411923028339"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:35.000000Z"/>
+<entry
+   name="ConstructorDecl$ConstructorEmpty.class"
+   checksum="7e602d85633e174e07ded4ea20823a69"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:31.000000Z"/>
+<entry
+   name="ConstructorDecl$ConstructorSelf1.class"
+   checksum="aaccdea548729ef8f95f57227f84b402"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:28.000000Z"/>
+<entry
+   name="ConstructorDecl$ConstructorSelf2.class"
+   checksum="9f078a04654b4185649a6d1af2dcb02e"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:52.000000Z"/>
+<entry
+   name="ConstructorDecl$ConstructorSub1.class"
+   checksum="d1b1ff37b2114690875a781d0ea02ab4"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:08.000000Z"/>
+<entry
+   name="ConstructorDecl$ConstructorSub2.class"
+   checksum="69e40077df515b247487bcf75130df1e"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:43.000000Z"/>
+<entry
+   name="ConstructorDecl.class"
+   checksum="97ed233e5ee205e3b2acc04196808b27"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:14.000000Z"/>
+<entry
+   name="Do.class"
+   checksum="18a668ce7bc005f15fe52851e22bb11b"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:42.000000Z"/>
+<entry
+   name="EclipseCFG.class"
+   checksum="c9875048171e5cd9e79f83a83a62e0c9"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:43.000000Z"/>
+<entry
+   name="EclipseCFGEdge.class"
+   checksum="ab6c69eacc35d703cce0b5e1cb82989c"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:58.000000Z"/>
+<entry
+   name="EclipseCFGNode.class"
+   checksum="4905bffce670b189ac82ef80aad1db37"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:57.000000Z"/>
+<entry
+   name="EclipseNodeFirstCFG.class"
+   checksum="d0a01dabd527676a593b5b038c8b8c24"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:26.000000Z"/>
+<entry
+   name="For.class"
+   checksum="34e12a86cf2ad0b2c5f17d4e42531d62"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:51.000000Z"/>
+<entry
+   name="If.class"
+   checksum="e9ab82c206404a00aa34521a6118354f"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:45.000000Z"/>
+<entry
+   name="Infix.class"
+   checksum="b5f7daf0cbd005d055dfa364404703e6"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:45.000000Z"/>
+<entry
+   name="Label.class"
+   checksum="d1096d71c7b4f38e8f309e254c875495"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:13.000000Z"/>
+<entry
+   name="MethodDecl$AbsDecl.class"
+   checksum="afaa9dbbe11e19ec99a34da59be40f43"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:37.000000Z"/>
+<entry
+   name="MethodDecl.class"
+   checksum="b27939b4003657bf04b22cc862190f86"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:36.000000Z"/>
+<entry
+   name="Switch.class"
+   checksum="67de2ffc18e0db4beb496b1dd0f63371"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:04.000000Z"/>
+<entry
+   name="Try$TestException.class"
+   checksum="aa2c751e4400082418ae99baa9ec92f2"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:18.000000Z"/>
+<entry
+   name="Try.class"
+   checksum="95dd3d4780241b09560a0248719e6ec2"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:16.000000Z"/>
+<entry
+   name="TypeDecl$1.class"
+   checksum="601ff207b8b51ed590d7a93ae5d889fd"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:20.000000Z"/>
+<entry
+   name="TypeDecl$1LocalClass.class"
+   checksum="fe5ad11e0819f75a2ba55541930ccfb8"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:40.000000Z"/>
+<entry
+   name="TypeDecl.class"
+   checksum="e237378958952ca1704a1bf1c2e9145c"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:33.000000Z"/>
+<entry
+   name="While.class"
+   checksum="751c24cdf9d2d6751858b29feffc331a"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:39.000000Z"/>
+<entry
+   name="package-info.class"
+   checksum="36ae2028776ff9af299fb473c0e3ebaf"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:56.000000Z"/>
+</wc-entries>

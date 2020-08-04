@@ -1,0 +1,8 @@
+package changeassistant.multipleexample.main;
+
+public class Constants {
+
+	public static String TEMPLATE_CLASS = "TemplateClass";
+	public static String EXTRACT_METHOD = "extractMethod";
+	public static String COMPARISON = "comparison";
+}

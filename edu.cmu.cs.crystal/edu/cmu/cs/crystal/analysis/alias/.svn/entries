@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://giraffe.ece.utexas.edu/svn/mengna"
+   name=""
+   revision="238"
+   last-author="mengna"
+   url="http://giraffe.ece.utexas.edu/svn/mengna/trunk/edu.cmu.cs.crystal/edu/cmu/cs/crystal/analysis/alias"
+   committed-rev="238"
+   kind="dir"
+   committed-date="2011-12-20T17:52:15.725000Z"/>
+<entry
+   name="AliasLE.class"
+   checksum="08d1c9af28ca1e22f61b786451fb138e"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:49.000000Z"/>
+<entry
+   name="Aliasing.class"
+   checksum="8cd26cce59708b5a0cf166e25fc391d9"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:34.000000Z"/>
+<entry
+   name="DefaultObjectLabel.class"
+   checksum="84fab0197e287936d50264961cfd385a"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:56.000000Z"/>
+<entry
+   name="MayAliasAnalysis$1.class"
+   checksum="b7f887293938e1888c04712b2cf67745"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:27.000000Z"/>
+<entry
+   name="MayAliasAnalysis.class"
+   checksum="17f03b7f4b8cfe0b182c2933df33fb14"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:59.000000Z"/>
+<entry
+   name="MayAliasTransferFunction.class"
+   checksum="b3d9d955ec585fef3c5de1f6f3224be2"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:43.000000Z"/>
+<entry
+   name="ObjectLabel.class"
+   checksum="fc3313d11f3c87b65d9201bad59fd3fb"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:12.000000Z"/>
+<entry
+   name="SingleObjectAliasOps.class"
+   checksum="eede81e4d9f98aa6cac2ce7f88db9dfe"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:04.000000Z"/>
+</wc-entries>

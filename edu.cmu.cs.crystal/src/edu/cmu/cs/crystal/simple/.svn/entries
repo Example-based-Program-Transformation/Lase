@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://giraffe.ece.utexas.edu/svn/mengna"
+   name=""
+   revision="238"
+   last-author="mengna"
+   url="http://giraffe.ece.utexas.edu/svn/mengna/trunk/edu.cmu.cs.crystal/src/edu/cmu/cs/crystal/simple"
+   committed-rev="238"
+   kind="dir"
+   committed-date="2011-12-20T17:52:15.725000Z"/>
+<entry
+   name="AbstractingTransferFunction.java"
+   checksum="56c793e5b00bc20e9bfacd448dae1877"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:43.000000Z"/>
+<entry
+   name="SimpleLatticeOperations.java"
+   checksum="0394fa93740fd72b3014afe1a6175c69"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:53.000000Z"/>
+<entry
+   name="SimpleTACFlowAnalysis.java"
+   checksum="25f28b3231dd85161d0a67cb90ad4f67"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:42.000000Z"/>
+<entry
+   name="TupleLatticeElement.java"
+   checksum="5f1af8715ddfe5b8bea1884ff99d22f6"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:13.000000Z"/>
+<entry
+   name="TupleLatticeOperations.java"
+   checksum="bfb277b4fcfc919f4f48a281d373367c"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:57.000000Z"/>
+<entry
+   name="package-info.java"
+   checksum="1dc7934c3e2f33095560552b518fb8e5"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:50.000000Z"/>
+</wc-entries>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://giraffe.ece.utexas.edu/svn/mengna"
+   revision="238"
+   last-author="mengna"
+   url="http://giraffe.ece.utexas.edu/svn/mengna/trunk/edu.cmu.cs.crystal/edu/cmu/cs/crystal/tac"
+   committed-rev="238"
+   kind="dir"
+   committed-date="2011-12-20T17:52:15.725000Z"/>
+<entry
+   name="AbstractTACBranchSensitiveTransferFunction.class"
+   checksum="66165af551992b7bb71d5e47075e8012"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:46.000000Z"/>
+<entry
+   name="ITACAnalysisContext.class"
+   checksum="8e006e43fd0d371943f1afbc2d4bd762"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:30.000000Z"/>
+<entry
+   name="ITACBranchSensitiveTransferFunction.class"
+   checksum="4f01e3cff64b4f62751be7648ca403c0"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:38.000000Z"/>
+<entry
+   name="ITACFlowAnalysis.class"
+   checksum="65aeca8b8c45405613ca483938609315"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:14.000000Z"/>
+<entry
+   name="ITACTransferFunction.class"
+   checksum="90463ab41cb1ce984d450c5ffa221bca"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:29.000000Z"/>
+<entry
+   name="PrintInstructionAnalysis.class"
+   checksum="e97ca0b132a17874fd3d31b87fff4f19"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:41.000000Z"/>
+<entry
+   name="SimpleInstructionVisitor$TransferVisitor.class"
+   checksum="e05ffe329dd230949f9370e35a64c2b7"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:12.000000Z"/>
+<entry
+   name="SimpleInstructionVisitor.class"
+   checksum="0d01fe79f55f83658b57100873cf1133"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:26.000000Z"/>
+<entry
+   name="TACFlowAnalysis$AbstractTACAnalysisDriver.class"
+   checksum="a5e04895ebf7a198784b7cb8a44b64de"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:50.000000Z"/>
+<entry
+   name="TACFlowAnalysis$BranchInsensitiveTACAnalysisDriver.class"
+   checksum="2496f2f4b860e6df46bb0f36d6b1c613"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:39.000000Z"/>
+<entry
+   name="TACFlowAnalysis$BranchSensitiveTACAnalysisDriver.class"
+   checksum="243c774e0016ac01be0a3fe41acb69e6"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:37.000000Z"/>
+<entry
+   name="TACFlowAnalysis.class"
+   checksum="c35ff16780cebcf9d2af4a2fc0f91b09"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:17.000000Z"/>
+<entry
+   name="eclipse"
+   kind="dir"/>
+<entry
+   name="model"
+   kind="dir"/>
+<entry
+   name="package-info.class"
+   checksum="9e9d3922a9c18e5bd0136795cf0acb96"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:27.000000Z"/>
+</wc-entries>

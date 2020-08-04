@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://giraffe.ece.utexas.edu/svn/mengna"
+   name=""
+   revision="238"
+   last-author="mengna"
+   url="http://giraffe.ece.utexas.edu/svn/mengna/trunk/edu.cmu.cs.crystal/src/edu/cmu/cs/crystal/flow/concur"
+   committed-rev="238"
+   kind="dir"
+   committed-date="2011-12-20T17:52:15.725000Z"/>
+<entry
+   name="ConcurrentFlowAnalysis.java"
+   checksum="9df107159de2021833da389688d2850e"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:38.000000Z"/>
+<entry
+   name="package-info.java"
+   checksum="caa8602014287144318983ec951a2606"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:15.000000Z"/>
+</wc-entries>

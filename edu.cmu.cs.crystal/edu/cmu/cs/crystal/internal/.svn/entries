@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://giraffe.ece.utexas.edu/svn/mengna"
+   name=""
+   revision="238"
+   last-author="mengna"
+   url="http://giraffe.ece.utexas.edu/svn/mengna/trunk/edu.cmu.cs.crystal/edu/cmu/cs/crystal/internal"
+   committed-rev="238"
+   kind="dir"
+   committed-date="2011-12-20T17:52:15.725000Z"/>
+<entry
+   name="AbstractCrystalPlugin.class"
+   checksum="01ebc184564e0ecbe1bfa5fa0c811374"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:44.000000Z"/>
+<entry
+   name="AnalysisMenuPopulator.class"
+   checksum="df6302af2a1e9d00111b048e848ed7cc"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:09.000000Z"/>
+<entry
+   name="BindingsCollectorVisitor.class"
+   checksum="41ae5cf373245de0a8c54625333bd1af"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:53.000000Z"/>
+<entry
+   name="ClearWarningHandler.class"
+   checksum="890060bb2ece695d5b43fc4e8bada08b"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:58.000000Z"/>
+<entry
+   name="ControlFlowGraph.class"
+   checksum="307212af0de0c7f4526bb7602a7c0606"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:53.000000Z"/>
+<entry
+   name="ControlFlowNode$Direction.class"
+   checksum="2489c0d286411a167f007744fe396cea"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:10.000000Z"/>
+<entry
+   name="ControlFlowNode.class"
+   checksum="d537e87589f6e76e1d09cf08f0e96218"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:58.000000Z"/>
+<entry
+   name="ControlFlowVisitor.class"
+   checksum="5068db56244cc245aa133a1ae56aeaff"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:54.000000Z"/>
+<entry
+   name="Crystal$1$1.class"
+   checksum="c5d41599eecbc93f184a438b0065207f"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:12.000000Z"/>
+<entry
+   name="Crystal$1.class"
+   checksum="a4033b9f2607add9a7619bbb248e262f"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:38.000000Z"/>
+<entry
+   name="Crystal$2$1.class"
+   checksum="3b43d51fde9a7c395c364620d211b51d"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:18.000000Z"/>
+<entry
+   name="Crystal$2.class"
+   checksum="35db0e5072e8879f56c0829d1c32c252"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:15.000000Z"/>
+<entry
+   name="Crystal$AnnoRegister.class"
+   checksum="2b58e98e03afcd7071cd3bb22f9cd27a"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:42.000000Z"/>
+<entry
+   name="Crystal.class"
+   checksum="eaa4e2c705b44be42e2530ed5d877662"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:28.000000Z"/>
+<entry
+   name="CrystalFileAction$1$1.class"
+   checksum="abd3f45e4c694903584dc3ec4df304f6"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:29.000000Z"/>
+<entry
+   name="CrystalFileAction$1.class"
+   checksum="f13db0f5c82194a021d29ea8c5122924"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:40.000000Z"/>
+<entry
+   name="CrystalFileAction.class"
+   checksum="013c3d2c3e8b8db68dbfe0200bc688cf"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:07.000000Z"/>
+<entry
+   name="CrystalPlugin.class"
+   checksum="b74d3c301ffb443788a7c26c88884f59"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:14.000000Z"/>
+<entry
+   name="CrystalPreferences.class"
+   checksum="cbc403f45baed94e5689b44e6af0dd51"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:09.000000Z"/>
+<entry
+   name="CrystalRuntimeException.class"
+   checksum="dc3e499208c33e5ff03fd67a9f6ef1ed"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:51.000000Z"/>
+<entry
+   name="CrystalUIAction$1$1.class"
+   checksum="cfe78e96536f2641ea9ad03f2fdc56f5"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:17.000000Z"/>
+<entry
+   name="CrystalUIAction$1.class"
+   checksum="5efd8fb78d7f5a0ce954410690b8f84c"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:17.000000Z"/>
+<entry
+   name="CrystalUIAction.class"
+   checksum="944a135baa47f9385090872c9d1feb1f"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:51.000000Z"/>
+<entry
+   name="DisplayCrystalInfo.class"
+   checksum="7756dc498aa8dbb612487cf3bdfd1efb"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:27.000000Z"/>
+<entry
+   name="EnableAnalysisHandler.class"
+   checksum="de88c7fade27efeef44f12aa2149f540"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:13.000000Z"/>
+<entry
+   name="ICrystalJob.class"
+   checksum="0ea514044a06c00790ac2e2774a05ba7"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:26.000000Z"/>
+<entry
+   name="ISingleCrystalJob.class"
+   checksum="a7fdcda81907b12889a0bd341d78dc78"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:24.000000Z"/>
+<entry
+   name="NullPrintWriter$1.class"
+   checksum="1177bb64c0eccc2f062d9064400948c9"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:41.000000Z"/>
+<entry
+   name="NullPrintWriter.class"
+   checksum="ad21af67e321105d2d9b122c32360967"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:21.000000Z"/>
+<entry
+   name="RunCrystalHandler$1$1.class"
+   checksum="3aac3543a355a7e6316526dd6b0c824d"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:21.000000Z"/>
+<entry
+   name="RunCrystalHandler$1.class"
+   checksum="8cf7a6ef5a486c8092ab59cebd1df2b5"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:47.000000Z"/>
+<entry
+   name="RunCrystalHandler.class"
+   checksum="7f66df46886b1cd406960c7e08750071"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:17.000000Z"/>
+<entry
+   name="ShortFormatter.class"
+   checksum="82920e893a20a40d6cc3e412000387c6"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:53.000000Z"/>
+<entry
+   name="StandardAnalysisReporter.class"
+   checksum="c74b9eab6df991b2fafccf54af3988fd"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:53.000000Z"/>
+<entry
+   name="StudentRuntimeException.class"
+   checksum="72aa86b421ad616ab42ba430e5e927f1"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:24.000000Z"/>
+<entry
+   name="UserConsoleView.class"
+   checksum="33118326d19ce0b3e0b293afdb43c94d"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:57.000000Z"/>
+<entry
+   name="WorkspaceUtilities$1.class"
+   checksum="c53f9190e8b25ccb0c366e2e8af0dd19"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:19.000000Z"/>
+<entry
+   name="WorkspaceUtilities$1MethodFindVisitor.class"
+   checksum="2a66e5f84f9c5d77a74bb5609cf48873"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:10.000000Z"/>
+<entry
+   name="WorkspaceUtilities$2.class"
+   checksum="853762f06728a2146eb43717b618a7bb"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:32.000000Z"/>
+<entry
+   name="WorkspaceUtilities$3.class"
+   checksum="d1299c9a5d5a3369ba284ce162ec44d0"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:38.000000Z"/>
+<entry
+   name="WorkspaceUtilities.class"
+   checksum="2f221c2c116316735bdff90a5a6c94a6"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:20.000000Z"/>
+<entry
+   name="package-info.class"
+   checksum="16a9ec984c9a9d121fc93fcd6f76b17a"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:57.000000Z"/>
+</wc-entries>

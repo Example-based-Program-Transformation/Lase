@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://giraffe.ece.utexas.edu/svn/mengna"
+   name=""
+   revision="238"
+   last-author="mengna"
+   url="http://giraffe.ece.utexas.edu/svn/mengna/trunk/edu.cmu.cs.crystal/src/edu/cmu/cs/crystal/tac/model"
+   committed-rev="238"
+   kind="dir"
+   committed-date="2011-12-20T17:52:15.725000Z"/>
+<entry
+   name="ArrayInitInstruction.java"
+   checksum="84f977db93365729448d5f3004d5911e"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:54.000000Z"/>
+<entry
+   name="AssignmentInstruction.java"
+   checksum="cf186508d273965b4d4105ff82c8a4a1"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:28.000000Z"/>
+<entry
+   name="BinaryOperation.java"
+   checksum="472d931188613d848a8f6a6afdd3fa46"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:11.000000Z"/>
+<entry
+   name="BinaryOperator.java"
+   checksum="b7c6f007832559c4225864996171ae52"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:14.000000Z"/>
+<entry
+   name="CastInstruction.java"
+   checksum="f664bcc997dbd5efb8c80bc2ccd8b5c7"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:21.000000Z"/>
+<entry
+   name="ConstructorCallInstruction.java"
+   checksum="f2f4b13aa8a164e30751c2093fa3a10f"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:12.000000Z"/>
+<entry
+   name="CopyInstruction.java"
+   checksum="4e8afa909355ba1e08bdf1380c165b94"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:16.000000Z"/>
+<entry
+   name="DotClassInstruction.java"
+   checksum="fd4beb91322c78379b826c6e58562828"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:18.000000Z"/>
+<entry
+   name="EnhancedForConditionInstruction.java"
+   checksum="561e7ad7e5bab3e9a762e34f087956c8"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:44.000000Z"/>
+<entry
+   name="IVariableVisitor.java"
+   checksum="862823d7a939edbf3be149157dc4650a"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:36.000000Z"/>
+<entry
+   name="InstanceofInstruction.java"
+   checksum="d7ee42a9671c6453c60cad6411f134bc"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:15.000000Z"/>
+<entry
+   name="InvocationInstruction.java"
+   checksum="d936c3e1f908b759cddf09a536a289f6"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:21.000000Z"/>
+<entry
+   name="KeywordVariable.java"
+   checksum="d65043887be7a97c7792198fba04dc43"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:42.000000Z"/>
+<entry
+   name="LoadArrayInstruction.java"
+   checksum="b67305182b0eed7915ecaf4d1607fab7"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:33.000000Z"/>
+<entry
+   name="LoadFieldInstruction.java"
+   checksum="254cd60e3a5255f4b06028a33e7e5b04"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:09.000000Z"/>
+<entry
+   name="LoadInstruction.java"
+   checksum="f14b7d51be694f301691472331a94c25"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:16.000000Z"/>
+<entry
+   name="LoadLiteralInstruction.java"
+   checksum="996332a9b06a697d17e35a78326afbf7"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:47.000000Z"/>
+<entry
+   name="MethodCallInstruction.java"
+   checksum="a159e6ae2393d4bfa4f89e706283ca41"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:49.000000Z"/>
+<entry
+   name="NewArrayInstruction.java"
+   checksum="3a2de23029660835195df430d4bb70e9"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:45.000000Z"/>
+<entry
+   name="NewObjectInstruction.java"
+   checksum="794a5bc6cc50b5aa077a0b7e37ed0dbe"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:21.000000Z"/>
+<entry
+   name="OneOperandInstruction.java"
+   checksum="bfed3a2b688cfd824c468bbd239095f2"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:25.000000Z"/>
+<entry
+   name="ReturnInstruction.java"
+   checksum="38e3e596f1b6eb42bea9949bab93fbcd"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:15.000000Z"/>
+<entry
+   name="SourceVariable.java"
+   checksum="fb9f93ce47680ddf32744d553932dae9"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:34.000000Z"/>
+<entry
+   name="SourceVariableDeclaration.java"
+   checksum="8963a8e7ce3ded6eed5abecac40ef37a"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:45.000000Z"/>
+<entry
+   name="SourceVariableReadInstruction.java"
+   checksum="2a2eba2aef42bba7df1053b78f1f0eb5"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:31.000000Z"/>
+<entry
+   name="StoreArrayInstruction.java"
+   checksum="46361b7b05e7aa6325c02207153f6e85"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:11.000000Z"/>
+<entry
+   name="StoreFieldInstruction.java"
+   checksum="7f21db2ce6f7402146bfde60e7f74767"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:13.000000Z"/>
+<entry
+   name="StoreInstruction.java"
+   checksum="2147f584ab262c2ea750f99cfebb5f0f"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:38.000000Z"/>
+<entry
+   name="SuperVariable.java"
+   checksum="2553f2a7e7d9995b185a2251b6657ebe"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:13.000000Z"/>
+<entry
+   name="TACArrayAccess.java"
+   checksum="c89aa74c5fc16b74064b3fd77de06368"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:52.000000Z"/>
+<entry
+   name="TACFieldAccess.java"
+   checksum="c986ed9afb2060a3ef0cdbd1ab649782"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:07.000000Z"/>
+<entry
+   name="TACInstruction.java"
+   checksum="712e70d8ae275e39e3426eb4739f420c"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:23.000000Z"/>
+<entry
+   name="TACInvocation.java"
+   checksum="c8bd3ded50874a3824dc4b93226e2764"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:36.000000Z"/>
+<entry
+   name="TempVariable.java"
+   checksum="723fd2f870a8382e84b87d34e5258eb8"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:52.000000Z"/>
+<entry
+   name="ThisVariable.java"
+   checksum="afb84a9de56d26afd9a296480b2d2dd7"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:49.000000Z"/>
+<entry
+   name="TypeVariable.java"
+   checksum="40a25c1f41ab864cca93657fd0b7125d"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:41.000000Z"/>
+<entry
+   name="UnaryOperation.java"
+   checksum="e9d13b38c600b8e9d2d3c15cf3c35787"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:46.000000Z"/>
+<entry
+   name="UnaryOperator.java"
+   checksum="3eeb0b7cf766cef23224caad7fbe9797"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:30.000000Z"/>
+<entry
+   name="Variable.java"
+   checksum="bc96d80b8d5364fdda8649ee7b915e0e"
+   last-author="mengna"
+   text-time="2010-10-06T03:01:17.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:36.000000Z"/>
+<entry
+   name="package-info.java"
+   checksum="65fdc19059305592233065747ed39574"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:35.000000Z"/>
+</wc-entries>

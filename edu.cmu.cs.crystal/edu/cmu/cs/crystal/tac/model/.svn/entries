@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://giraffe.ece.utexas.edu/svn/mengna"
+   name=""
+   revision="238"
+   last-author="mengna"
+   url="http://giraffe.ece.utexas.edu/svn/mengna/trunk/edu.cmu.cs.crystal/edu/cmu/cs/crystal/tac/model"
+   committed-rev="238"
+   kind="dir"
+   committed-date="2011-12-20T17:52:15.725000Z"/>
+<entry
+   name="ArrayInitInstruction.class"
+   checksum="1953b644ef123081c1c1e17e142b5e4b"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:52.000000Z"/>
+<entry
+   name="AssignmentInstruction.class"
+   checksum="9fb4c5d6beff4eb01e29503a3c6b0cba"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:33.000000Z"/>
+<entry
+   name="BinaryOperation.class"
+   checksum="efbe007706337e51ac8a721b25634cae"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:05.000000Z"/>
+<entry
+   name="BinaryOperator.class"
+   checksum="27c6c7e13665fc902a8f0ed2832b3c59"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:44.000000Z"/>
+<entry
+   name="CastInstruction.class"
+   checksum="7663eaaf60a21f4332245221b808ef86"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:08.000000Z"/>
+<entry
+   name="ConstructorCallInstruction.class"
+   checksum="73de8d408f74188a44d74e31861e632b"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:43.000000Z"/>
+<entry
+   name="CopyInstruction.class"
+   checksum="f83c35d616abf1310e187ab0f20a3c78"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:25.000000Z"/>
+<entry
+   name="DotClassInstruction.class"
+   checksum="14bc877ef52b60c73afbdb73acd2472d"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:40.000000Z"/>
+<entry
+   name="EnhancedForConditionInstruction.class"
+   checksum="2edcd473678e27b1bad28151bda82fb6"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:33.000000Z"/>
+<entry
+   name="IVariableVisitor.class"
+   checksum="4a10734906c77deed34724058a33fc8e"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:47.000000Z"/>
+<entry
+   name="InstanceofInstruction.class"
+   checksum="a71def5b254ef481d5985848a2edc084"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:12.000000Z"/>
+<entry
+   name="InvocationInstruction.class"
+   checksum="1fdec11bc34a15a883f36b2b089c492a"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:19.000000Z"/>
+<entry
+   name="KeywordVariable.class"
+   checksum="6871637f419d5caf3be97c69e67de066"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:32.000000Z"/>
+<entry
+   name="LoadArrayInstruction.class"
+   checksum="e2462697d1565e5ed82f27158942d968"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:50.000000Z"/>
+<entry
+   name="LoadFieldInstruction.class"
+   checksum="3493bd12dece927797ca1cba92ac58d0"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:11.000000Z"/>
+<entry
+   name="LoadInstruction.class"
+   checksum="c7559cacc0db8f24be78127de3714463"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:02.000000Z"/>
+<entry
+   name="LoadLiteralInstruction.class"
+   checksum="211db01dff82c9e970e85f8ff5ce654d"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:21.000000Z"/>
+<entry
+   name="MethodCallInstruction.class"
+   checksum="10372e9c272f21bf7a735af9639e807f"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:36.000000Z"/>
+<entry
+   name="NewArrayInstruction.class"
+   checksum="40bfc5cb567bcd524064df349ab5efe3"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:59.000000Z"/>
+<entry
+   name="NewObjectInstruction.class"
+   checksum="8ec03f033837bf5b321fe6c94611631f"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:53.000000Z"/>
+<entry
+   name="OneOperandInstruction.class"
+   checksum="02a5d0cc35d9b2dff2194a3d1f29b68b"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:34.000000Z"/>
+<entry
+   name="ReturnInstruction.class"
+   checksum="d1f70d665980714ef9eb858cd3c907f3"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:25.000000Z"/>
+<entry
+   name="SourceVariable.class"
+   checksum="ac14447e2119f0bfd1eb4263f8e889e6"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:41.000000Z"/>
+<entry
+   name="SourceVariableDeclaration.class"
+   checksum="93d15cf5f022322ebdeb821526a358fa"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:20.000000Z"/>
+<entry
+   name="SourceVariableReadInstruction.class"
+   checksum="6c9e6bda35447a74576e9eca42103e7e"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:06.000000Z"/>
+<entry
+   name="StoreArrayInstruction.class"
+   checksum="a8b176645124e28b545bfefd68a75d14"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:30.000000Z"/>
+<entry
+   name="StoreFieldInstruction.class"
+   checksum="d6aea0a50481b74189217a9c3fbae364"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:46.000000Z"/>
+<entry
+   name="StoreInstruction.class"
+   checksum="e3aaa6b62d18ff41f9d8cc05a0ac343a"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:19.000000Z"/>
+<entry
+   name="SuperVariable.class"
+   checksum="9362df2ea6cf6c12bfac4d07260faf9e"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:22.000000Z"/>
+<entry
+   name="TACArrayAccess.class"
+   checksum="047f98df3d94b7d3a512dbf58537b007"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:55.000000Z"/>
+<entry
+   name="TACFieldAccess.class"
+   checksum="430a91033eacd709e5b8d8dacd675632"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:18.000000Z"/>
+<entry
+   name="TACInstruction.class"
+   checksum="52f01a0eb7f64fd21a0ff439b4b30bf0"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:48.000000Z"/>
+<entry
+   name="TACInvocation.class"
+   checksum="9c6ca8cfda16be58eec2030b4c26d4a9"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:26.000000Z"/>
+<entry
+   name="TempVariable.class"
+   checksum="4ad75303cfcb157f558cdd90d8961058"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:18.000000Z"/>
+<entry
+   name="ThisVariable.class"
+   checksum="36ad0f04b308e74d63021dfc3b632ff9"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:28.000000Z"/>
+<entry
+   name="TypeVariable.class"
+   checksum="9ca5a639d974ef9a7d2707fc9713d9fd"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:29.000000Z"/>
+<entry
+   name="UnaryOperation.class"
+   checksum="73367272be9384aff36025a8aee2ae5b"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:36.000000Z"/>
+<entry
+   name="UnaryOperator.class"
+   checksum="9327186b6a6ca178c4a19cec54174339"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:23.000000Z"/>
+<entry
+   name="Variable.class"
+   checksum="615d25579a25696a059d01245481c59e"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:29.000000Z"/>
+<entry
+   name="package-info.class"
+   checksum="75fb08815ae3922324b86a02bd2662f1"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:26.000000Z"/>
+</wc-entries>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://giraffe.ece.utexas.edu/svn/mengna"
+   revision="238"
+   last-author="mengna"
+   url="http://giraffe.ece.utexas.edu/svn/mengna/trunk/edu.cmu.cs.crystal/edu/cmu/cs/crystal/flow/worklist"
+   committed-rev="238"
+   kind="dir"
+   committed-date="2011-12-20T17:52:15.725000Z"/>
+<entry
+   name="AbstractWorklist.class"
+   checksum="08f39d9fa03005b1c41024fd8c05f8d5"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:07.000000Z"/>
+<entry
+   name="AnalysisResult.class"
+   checksum="6fcf2dcc54b05fea30ffb0923f96b3c8"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:42.000000Z"/>
+<entry
+   name="BranchInsensitiveWorklist.class"
+   checksum="efca14b1b111634c37bdb27f827fbfd6"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:32.000000Z"/>
+<entry
+   name="BranchSensitiveWorklist.class"
+   checksum="057344ef3c71d2156fece17fe8cb9c2e"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:20.000000Z"/>
+<entry
+   name="WorklistFactory.class"
+   checksum="5ad48783b89ab5a6011a93c01113fe2a"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:32.000000Z"/>
+<entry
+   name="WorklistNodeOrderComparator.class"
+   checksum="f03975face18e96c4dd145c217503396"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:51.000000Z"/>
+<entry
+   name="WorklistTemplate$IncomingResult.class"
+   checksum="45c0c0ee6232b0e8878e46d73724f75c"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:37.000000Z"/>
+<entry
+   name="WorklistTemplate.class"
+   checksum="9fc2d25563e1425989606dae017f035d"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:01.000000Z"/>
+<entry
+   name="package-info.class"
+   checksum="62dc8000a4c38394140ef8c596b5a204"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:46.000000Z"/>
+</wc-entries>

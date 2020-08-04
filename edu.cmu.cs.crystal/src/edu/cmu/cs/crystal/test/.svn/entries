@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://giraffe.ece.utexas.edu/svn/mengna"
+   name=""
+   revision="238"
+   last-author="mengna"
+   url="http://giraffe.ece.utexas.edu/svn/mengna/trunk/edu.cmu.cs.crystal/src/edu/cmu/cs/crystal/test"
+   committed-rev="238"
+   kind="dir"
+   committed-date="2011-12-20T17:52:15.725000Z"/>
+<entry
+   name="AnnotatedTest.java"
+   checksum="07aa5f1edcc4008e3742396bc6f85735"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:56.000000Z"/>
+<entry
+   name="CFGTestAnalysis.java"
+   checksum="8005406494a0b99ec7a948c91f2d2ede"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:22.000000Z"/>
+<entry
+   name="ConsListTest.java"
+   checksum="57357b9c59e78434acf66cfbd70b655c"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:39.000000Z"/>
+<entry
+   name="EclipseCFGTestAnalysis.java"
+   checksum="aa90fe2c5670709832b9c1eb13b0fb62"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:35.000000Z"/>
+<entry
+   name="EclipseNodeFirstCFGTestAnalysis.java"
+   checksum="d1851f1764ae5b3cf144788dd6e94858"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:34.000000Z"/>
+<entry
+   name="SystemTestUtils.java"
+   checksum="64144d0a725f3791cf4f66c1246ccf7e"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:01.000000Z"/>
+<entry
+   name="TestUtilities.java"
+   checksum="1cb9ba44a68ac62074788b269627fc25"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:10.000000Z"/>
+<entry
+   name="package-info.java"
+   checksum="eb71ca4e4f61782049767db83d18587c"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:43.000000Z"/>
+</wc-entries>

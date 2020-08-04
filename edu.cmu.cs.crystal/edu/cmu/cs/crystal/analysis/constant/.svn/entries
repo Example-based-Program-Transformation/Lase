@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://giraffe.ece.utexas.edu/svn/mengna"
+   revision="238"
+   last-author="mengna"
+   url="http://giraffe.ece.utexas.edu/svn/mengna/trunk/edu.cmu.cs.crystal/edu/cmu/cs/crystal/analysis/constant"
+   committed-rev="238"
+   kind="dir"
+   committed-date="2011-12-20T17:52:15.725000Z"/>
+<entry
+   name="BooleanConstantLE.class"
+   checksum="81d63bf88e32cfa3d182d095b67846ee"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:16.000000Z"/>
+<entry
+   name="BooleanConstantLatticeOps.class"
+   checksum="a9e862dacf9dab05ae1e8848e17ac343"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:19.000000Z"/>
+<entry
+   name="ConstantAnalysis$DeadBranchChecker.class"
+   checksum="d88b10dc76b3cb6a93f05007992fde5e"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:40.000000Z"/>
+<entry
+   name="ConstantAnalysis.class"
+   checksum="cb374a4b614a22e98ec85bb0a48be7cc"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:24.000000Z"/>
+<entry
+   name="ConstantTransferFunction.class"
+   checksum="f9a3ef60c9f754888dcd273cd7fb130c"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:34.000000Z"/>
+</wc-entries>

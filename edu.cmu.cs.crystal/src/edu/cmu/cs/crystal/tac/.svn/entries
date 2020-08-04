@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://giraffe.ece.utexas.edu/svn/mengna"
+   revision="238"
+   last-author="mengna"
+   url="http://giraffe.ece.utexas.edu/svn/mengna/trunk/edu.cmu.cs.crystal/src/edu/cmu/cs/crystal/tac"
+   committed-rev="238"
+   kind="dir"
+   committed-date="2011-12-20T17:52:15.725000Z"/>
+<entry
+   name="AbstractTACBranchSensitiveTransferFunction.java"
+   checksum="4ccc3841937855141898c547519361c8"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:24.000000Z"/>
+<entry
+   name="ITACAnalysisContext.java"
+   checksum="938ab229c34ca00b06432c6d8c5e3900"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:24.000000Z"/>
+<entry
+   name="ITACBranchSensitiveTransferFunction.java"
+   checksum="79076a8056638f3bdb8bc923e6ef424e"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:45.000000Z"/>
+<entry
+   name="ITACFlowAnalysis.java"
+   checksum="18d876798d03c833112780920ddce716"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:11.000000Z"/>
+<entry
+   name="ITACTransferFunction.java"
+   checksum="8852b58e3a77d9a5a6f025c07a9d344b"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:35.000000Z"/>
+<entry
+   name="PrintInstructionAnalysis.java"
+   checksum="e9a2eb94f7a40a0312f6521a8f507d78"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:39.000000Z"/>
+<entry
+   name="SimpleInstructionVisitor.java"
+   checksum="e7726ffc52363a6dc97b243ecec7e8ad"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:28.000000Z"/>
+<entry
+   name="TACFlowAnalysis.java"
+   checksum="92444f835ada73b2d8275ea036e65908"
+   last-author="mengna"
+   text-time="2010-07-08T14:06:32.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:37.000000Z"/>
+<entry
+   name="eclipse"
+   kind="dir"/>
+<entry
+   name="model"
+   kind="dir"/>
+<entry
+   name="package-info.java"
+   checksum="b87f9648c5fc7e15a4c53bc0153cf649"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:19.000000Z"/>
+</wc-entries>

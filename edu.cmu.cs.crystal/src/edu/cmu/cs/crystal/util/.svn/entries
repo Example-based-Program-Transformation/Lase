@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://giraffe.ece.utexas.edu/svn/mengna"
+   name=""
+   revision="238"
+   last-author="mengna"
+   url="http://giraffe.ece.utexas.edu/svn/mengna/trunk/edu.cmu.cs.crystal/src/edu/cmu/cs/crystal/util"
+   committed-rev="238"
+   kind="dir"
+   committed-date="2011-12-20T17:52:15.725000Z"/>
+<entry
+   name="Box.java"
+   checksum="22929ce7931ecb387f72a173377c86d5"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:52.000000Z"/>
+<entry
+   name="CollectionMethods.java"
+   checksum="c1b9d5a6173be392caa1c0599165ef79"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:48.000000Z"/>
+<entry
+   name="ConsList.java"
+   checksum="ee252539b48c6a928fdab88dd6f0f0ec"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:48.000000Z"/>
+<entry
+   name="Copyable.java"
+   checksum="d8b3567b5fb6aafd8fc3a496e75dafcd"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:47.000000Z"/>
+<entry
+   name="ExtendedIterator.java"
+   checksum="eff50f7415ef17efee76e238a5c74d40"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:17.000000Z"/>
+<entry
+   name="Freezable.java"
+   checksum="d7440665753ec2f72257ec97da0c0716"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:52.000000Z"/>
+<entry
+   name="Lambda.java"
+   checksum="c169262859d45ae068e0f0b752fc41cf"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:41.000000Z"/>
+<entry
+   name="Lambda2.java"
+   checksum="f105470d5881c20f6a84d4dfff3fdef0"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:47.000000Z"/>
+<entry
+   name="Lambda3.java"
+   checksum="69792d8f6a388b822316f2afae9eb8ed"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:21.000000Z"/>
+<entry
+   name="Option.java"
+   checksum="8a3a71ee663648a4451cf731c2172c86"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:13.000000Z"/>
+<entry
+   name="Pair.java"
+   checksum="e09fd9493c9ce222ea1bd756a7e32dd4"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:30.000000Z"/>
+<entry
+   name="SimpleMap.java"
+   checksum="7d24b77e8762c97d131ff36316ec2548"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:39.000000Z"/>
+<entry
+   name="Triple.java"
+   checksum="a87d7cb8b94b78d3d04aff49e2730444"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:36.000000Z"/>
+<entry
+   name="Utilities.java"
+   checksum="573792800bec432649c7592c5cec59f6"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:45.000000Z"/>
+<entry
+   name="VOID.java"
+   checksum="dfcd73bceda84d75689c4d661a45a285"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:03.000000Z"/>
+<entry
+   name="package-info.java"
+   checksum="307c2a26138334dbef7d3fd1b1c4f499"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:28.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:46.000000Z"/>
+</wc-entries>

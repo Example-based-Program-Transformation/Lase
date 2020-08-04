@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="http://giraffe.ece.utexas.edu/svn/mengna"
+   revision="238"
+   last-author="mengna"
+   url="http://giraffe.ece.utexas.edu/svn/mengna/trunk/edu.cmu.cs.crystal/edu/cmu/cs/crystal/util"
+   committed-rev="238"
+   kind="dir"
+   committed-date="2011-12-20T17:52:15.725000Z"/>
+<entry
+   name="Box.class"
+   checksum="f90aed29d50c9cc00ca21708f463048f"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:16.000000Z"/>
+<entry
+   name="CollectionMethods$Mapping.class"
+   checksum="168ac2e97e2a6d310e35e2022f58c267"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:33.000000Z"/>
+<entry
+   name="CollectionMethods.class"
+   checksum="941b0bcf84bb23df93ef4ec2676b2cfb"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:44.000000Z"/>
+<entry
+   name="ConsList$1.class"
+   checksum="c393df077310618ac3cea4a936fcd4b9"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:37.000000Z"/>
+<entry
+   name="ConsList$2.class"
+   checksum="211f6db1cadb736ce4955b4ef40d36d5"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:51.000000Z"/>
+<entry
+   name="ConsList.class"
+   checksum="a7dfdee27c834e5c7c7106170125cf5d"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:23.000000Z"/>
+<entry
+   name="Copyable.class"
+   checksum="a33a7d876c46348d6f5e497ad32e937c"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:24.000000Z"/>
+<entry
+   name="Empty.class"
+   checksum="65fae28987864f698bbee6b3e60fcf33"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:32.000000Z"/>
+<entry
+   name="ExtendedIterator.class"
+   checksum="34c0f9e87d9c2bfab1daafeaa88e2f92"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:22.000000Z"/>
+<entry
+   name="Freezable.class"
+   checksum="6320cd30c80d38156ce818f8448b0fb0"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:50.000000Z"/>
+<entry
+   name="Lambda.class"
+   checksum="f06bf214cb1bb80125c2e4b9855e5a2d"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:11.000000Z"/>
+<entry
+   name="Lambda2.class"
+   checksum="265ee039159aa93e4fd10b6624034dea"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:20.000000Z"/>
+<entry
+   name="Lambda3.class"
+   checksum="32d54a982d4be067e815e32fc0d7a2b2"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:20.000000Z"/>
+<entry
+   name="Nonempty.class"
+   checksum="4127deaf1d870f71103899bbb0e4471c"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:23.000000Z"/>
+<entry
+   name="Option$1.class"
+   checksum="1ecf40d74f01793e8152f834a2b14680"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:22.000000Z"/>
+<entry
+   name="Option$2.class"
+   checksum="cff3449fd199bac28140c57767ac11d0"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:36.000000Z"/>
+<entry
+   name="Option.class"
+   checksum="9eef509604b9c094af96583cb1c9a85a"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:30.000000Z"/>
+<entry
+   name="Pair.class"
+   checksum="01354ba2ebe23660fbdfaaee24acc5bf"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:49.000000Z"/>
+<entry
+   name="SimpleMap.class"
+   checksum="b73b80ac462ba604998d46e6c259bf79"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:54.000000Z"/>
+<entry
+   name="Triple.class"
+   checksum="a434b6c1e1a1d704483cd5476d228c83"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:23.000000Z"/>
+<entry
+   name="Utilities.class"
+   checksum="7b4fcf99b659a0085abf774184c92d11"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:41.000000Z"/>
+<entry
+   name="VOID.class"
+   checksum="56b03cc805489c73c6bd92faf2fac252"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:18.000000Z"/>
+<entry
+   name="package-info.class"
+   checksum="811b8ec8909885bd053e11d1bc6702a9"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:06.000000Z"/>
+</wc-entries>

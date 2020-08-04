@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="http://giraffe.ece.utexas.edu/svn/mengna"
+   name=""
+   revision="238"
+   last-author="mengna"
+   url="http://giraffe.ece.utexas.edu/svn/mengna/trunk/edu.cmu.cs.crystal/src/edu/cmu/cs/crystal"
+   committed-rev="238"
+   kind="dir"
+   committed-date="2011-12-20T17:52:15.725000Z"/>
+<entry
+   name="AbstractCompilationUnitAnalysis.java"
+   checksum="5d4d244233f087a1f8ff5f0a93c750d3"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:20.000000Z"/>
+<entry
+   name="AbstractCrystalMethodAnalysis.java"
+   checksum="4ed2e5b9adcde62f7e554de469eb5819"
+   last-author="mengna"
+   text-time="2010-05-19T19:21:46.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:16.000000Z"/>
+<entry
+   name="Activator.java"
+   checksum="5b9c9b0f91221a7cb94d5770b36777b4"
+   last-author="mengna"
+   text-time="2010-05-11T20:39:56.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:46.000000Z"/>
+<entry
+   name="IAnalysisInput.java"
+   checksum="920c89372cfa84e60511da6d9292013f"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:10.000000Z"/>
+<entry
+   name="IAnalysisReporter.java"
+   checksum="444939da49f985c5f009605766b2aee7"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:46.000000Z"/>
+<entry
+   name="ICrystalAnalysis.java"
+   checksum="ddad3fc500829114c3faf8a3fe1c1724"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:31.000000Z"/>
+<entry
+   name="IRunCrystalCommand.java"
+   checksum="dd34ba767fee25e38149fb6b8a600565"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:13:42.000000Z"/>
+<entry
+   name="analysis"
+   kind="dir"/>
+<entry
+   name="annotations"
+   kind="dir"/>
+<entry
+   name="bridge"
+   kind="dir"/>
+<entry
+   name="cfg"
+   kind="dir"/>
+<entry
+   name="flow"
+   kind="dir"/>
+<entry
+   name="internal"
+   kind="dir"/>
+<entry
+   name="package-info.java"
+   checksum="a540e70c4894b87424233d48ab561fba"
+   last-author="mengna"
+   text-time="2010-05-11T20:40:26.000000Z"
+   committed-rev="238"
+   kind="file"
+   committed-date="2011-12-20T17:52:15.725000Z"
+   prop-time="2011-12-20T18:14:17.000000Z"/>
+<entry
+   name="simple"
+   kind="dir"/>
+<entry
+   name="tac"
+   kind="dir"/>
+<entry
+   name="test"
+   kind="dir"/>
+<entry
+   name="util"
+   kind="dir"/>
+</wc-entries>
